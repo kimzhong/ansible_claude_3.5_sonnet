@@ -1,0 +1,15 @@
+{
+    "yaml.schemas": {
+        "./schemas/vars.json": [
+            "group_vars/*.yml",
+            "host_vars/*.yml"
+        ],
+        "./schemas/requirements.json": [
+            "requirements.yml"
+        ]
+    },
+    "yaml.customTags": [
+        "!vault",
+        "!unsafe"
+    ]
+}
