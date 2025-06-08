@@ -1,4 +1,4 @@
-# VMware 虚拟机自动化部署工具
+# 使用ansible 实现 VMware 虚拟机自动化部署工具
 
 这是一个基于Ansible的自动化工具，用于在VMware vSphere环境中部署虚拟机并自动加入域。
 
