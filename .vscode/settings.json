@@ -11,5 +11,6 @@
     "yaml.customTags": [
         "!vault",
         "!unsafe"
-    ]
+    ],
+    "Codegeex.RepoIndex": true
 }
